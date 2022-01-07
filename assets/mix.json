@@ -1,8 +1,5 @@
 {
-  "settings": {
-    "assetspath": ""
-  },
-  "shared": {
-    "name": "SpoutIn"
-  }
+   "settings" : {
+      "assetspath" : ""
+   }
 }
